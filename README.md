@@ -1,6 +1,7 @@
 ## 二手汽车交易小程序（不涉及真实支付）之前自己学完vue2整的毕设
 
-### 需求背景
+### 前言
+后端使用的node的express框架 数据库使用的mysql，在我另一仓库UsedCar-node里都是人门级的，肯定整的不是特别好，本来也想重构一下半年前刚学完时整的毕设，当想了想，这何尝不是一种回忆，留着了！
 ### 技术栈
 vue2+uni-app +vuex+colorUI+uni-ui
 ### 目录结构
@@ -29,4 +30,3 @@ pages/
 ![cf8d7c1808576092969ec796622f29e](https://user-images.githubusercontent.com/89508270/224237114-6741fe91-416d-4265-9f4a-2553199a66e7.jpg)
 ![0ed9bfa0180472db3a4d80d83877f53](https://user-images.githubusercontent.com/89508270/224237147-23790952-501c-49f4-9f72-c31584cd189d.jpg)
 ![81c8900b6b30d688297b19a2964dac8](https://user-images.githubusercontent.com/89508270/224237170-a8049c1d-628b-45ae-9f40-f6abf23e268a.jpg)
-![Uploading 7c3341d15e7c60c455d9f4dcd4a15e1.jpg…]()
